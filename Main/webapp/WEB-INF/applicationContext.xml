@@ -33,7 +33,7 @@
 			value="com.mysql.jdbc.Driver"></property>
 		<property name="url"
 			value="jdbc:mysql://localhost:3306/student_management"></property>
-		<property name="username" value="tanuj"></property>
+		<property name="username" value="Jaspreet"></property>
 		<property name="password" value="admin"></property>
 	</bean>
 	<bean
